@@ -13,5 +13,9 @@ Given `"pwwkew"`, the answer is `"wke"`, with the length of 3. Note that the ans
 # General Concept
 
 
+# Time Complexity
+
+Should be O(N)
+
 
 
