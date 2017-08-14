@@ -181,6 +181,3 @@ My Solution to the LeetCode Problems
 |      | 130  | Surrounded Regions                       | 4    | 3    | array          | BFS           |
 |      |      |                                          |      |      |                | DFS           |
 |      | 131  | Palindrome Partitioning                  | 3    | 4    | string         | DFS           |
-|      | 132  | Palindrome Partitioning II               | 4    | 3    | string         | DP            |
-
-Published by [Google Drive](https://docs.google.com/) – [Report Abuse](https://docs.google.com/spreadsheet/reportabuse?key=0Aqt--wSNYfuxdGxQWVFsOGdVVWxQRlNUVXZTdEpOeEE&source=https%253A%252F%252Fdocs.google.com%252Fspreadsheet%252Fpub%253Fkey%253D0Aqt--wSNYfuxdGxQWVFsOGdVVWxQRlNUVXZTdEpOeEE) – Updated automatically every 5 minutes
