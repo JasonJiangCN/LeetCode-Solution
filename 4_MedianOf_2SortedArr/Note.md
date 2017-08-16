@@ -1,3 +1,5 @@
+# NOT COMPLETED!!!!!
+
 # Median of Two Sorted Arrays
 
 There are two sorted arrays **nums1** and **nums2** of size m and n respectively.
@@ -43,7 +45,5 @@ when len is an even num, the median will be the array[(len >> 1)] + array[(len >
 
 
 
-[1,2,3,4,5]
 
-[6,7,8,9,10]
 
