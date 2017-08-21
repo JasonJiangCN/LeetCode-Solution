@@ -1,10 +1,16 @@
 # LeetCode-Solution
-My Solution to the LeetCode Problems
+My Solutions to the LeetCode Problems
+
 
 # TODO
 
 ## Unsoloved Problems
+
 Problem 4 --> HARD. Divide and Conquer
+
+
+
+
 
 
 # Difficulty Distribution
